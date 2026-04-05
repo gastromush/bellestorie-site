@@ -1,0 +1,17 @@
+{
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.5"
+  },
+  "author": "",
+  "description": "",
+  "type": "commonjs",
+  "name": "bellestorie",
+  "version": "1.0.0",
+  "keywords": [],
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "main": "index.js"
+}
